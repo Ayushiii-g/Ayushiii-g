@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me on instagram @riddhiiee._
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+  
 
 <!---
 Ayushiii-g/Ayushiii-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

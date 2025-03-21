@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Ayushi</h1>
-<h3 align="center">👀 I’m interested in website development, machine learning, programming, cloud computing and cybersecurity.<br>🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.<br>💞️ I’m looking to collaborate on web development projects.<br>📫 Reach me on instagram @riddhiiee._<br>😄 Pronouns: she/her
+<h3 align="center">👀 I’m interested in website development, machine learning and cybersecurity.<br>🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.<br>💞️ I’m looking to collaborate on web development projects.<br>📫 Reach me on instagram @riddhiiee._<br>😄 Pronouns: she/her
 
 </h3>
 

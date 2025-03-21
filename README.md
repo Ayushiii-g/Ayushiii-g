@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayushiii-g</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1 align="center">Hi 👋, this is Ayushi</h1>
+<h3 align="center">👀 I’m interested in website development, machine learning, programming, cloud computing and cybersecurity.<br>🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.<br>💞️ I’m looking to collaborate on web development projects.<br>📫 Reach me on instagram @riddhiiee._<br>😄 Pronouns: she/her
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushiii-g&label=Profile%20views&color=0e75b6&style=flat" alt="ayushiii-g" /> </p>
 
